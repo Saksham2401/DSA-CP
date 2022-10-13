@@ -1,2 +1,2 @@
 # DSA-CP
-Will contain questions that i found tricky to solve.
+Will contain questions related to DSA and CP
